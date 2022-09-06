@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhk6848)]
+![hhk6848's github stats](https://github-readme-stats.vercel.app/api?username=hhk6848&show_icons=true)
